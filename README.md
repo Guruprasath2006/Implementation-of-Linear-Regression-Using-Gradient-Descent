@@ -68,3 +68,4 @@ RegisterNumber: 212224230079
 ![Screenshot 2025-03-08 143228](https://github.com/user-attachments/assets/cae8a257-220f-4c2d-9a2f-6aed38449241)
 
 ## Result:
+Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
